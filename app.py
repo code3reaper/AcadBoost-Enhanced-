@@ -7,7 +7,7 @@ from teacher_module import teacher_dashboard
 from student_module import student_dashboard
 
 # Set up environment variables
-os.environ["GEMINI_API_KEY"] = "AIzaSyB_l1JJrCFXp6bkzGuvdlY7gzoFFe3DCdM"
+os.environ["GEMINI_API_KEY"] = "YOUR_GEMINI_API_KEY"
 
 # Page configuration
 st.set_page_config(
