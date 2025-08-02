@@ -1,0 +1,4 @@
+after pressing F5 to run the project 
+
+
+Navigate to: `http://localhost:5000`
